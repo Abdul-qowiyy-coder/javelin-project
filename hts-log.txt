@@ -1,0 +1,48 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Wed, 11 Jan 2023 03:52:17 at https://jevelin.shufflehound.com/personal-blog/
+(winhttrack https://jevelin.shufflehound.com/personal-blog/ -O "/home/hacker-p/websites/javelin-blog" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+03:54:20	Error: 	"Forbidden" (403) at link https://jevelin.shufflehound.com/personal-blog/xmlrpc.php?rsd (from https://jevelin.shufflehound.com/personal-blog/)
+03:56:12	Error: 	"Not Found" (404) at link https://jevelin.shufflehound.com/personal-blog/wp-content/themes/jevelin/css/fonts/glyphicons-halflings-regular.eot (from https://jevelin.shufflehound.com/personal-blog/wp-content/cache/autoptimize/28/css/autoptimize_cdb657e7e6aacbecf002c6f28f30a76d.css)
+03:56:12	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=91
+03:56:12	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=91 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/gear-on-the-white-cloth/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=72
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=72 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/must-have-gear-i-never-forget/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=68
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=68 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/the-backpack-journey/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=66
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=66 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/check-out-my-new-setup/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=47
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=47 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/the-midday-swim/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=131
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=131 to https://jevelin.shufflehound.com/personal-blog/2016/11/22/motivational/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=93
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=93 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/trip-that-youll-never-forget/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=88
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=88 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/movie-like-photo-shoot/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=86
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=86 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/craftsmen-at-work/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=139
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=139 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/83/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=78
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=78 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/test/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=74
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=74 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/main-headquarters-if-finally-ready/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=64
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=64 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/first-steps-in-the-right-direction/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=62
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=62 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/couple-of-cool-mock-up-ideas/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=76
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=76 to https://jevelin.shufflehound.com/personal-blog/2016/11/23/the-proper-way-to-dress-up-for-the-business-meeting/
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=129
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=129 to https://jevelin.shufflehound.com/personal-blog/2016/11/22/shufflehound-link/
+03:56:15	Error: 	"Not Found" (404) at link https://jevelin.shufflehound.com/personal-blog/2/ (from https://jevelin.shufflehound.com/personal-blog/page/2/)
+03:56:15	Warning: 	Moved Permanently for https://jevelin.shufflehound.com/personal-blog/?p=29
+03:56:15	Warning: 	File has moved from https://jevelin.shufflehound.com/personal-blog/?p=29 to https://jevelin.shufflehound.com/personal-blog/2016/11/22/how-fake-news-goes-viral-a-case-study-2/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 58 seconds : 293 links scanned, 272 files written (18461184 bytes overall) [8708666 bytes received at 36591 bytes/sec], 12645397 bytes transferred using HTTP compression in 195 files, ratio 19%, 19.5 requests per connection
+(3 errors, 34 warnings, 0 messages)
